@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="Com.G.Varathan.scrip.Testscript">
+        <methods>
+          <include name="validatePostalcode"/>
+          <include name="validatePassword"/>
+          <include name="validateSipas"/>
+          <include name="validateSigsub"/>
+          <include name="validatePhonenum"/>
+          <include name="teardown"/>
+          <include name="validateLastname"/>
+          <include name="validateFirstname"/>
+          <include name="validateSiUser"/>
+          <include name="validateSignof"/>
+          <include name="validateUserName"/>
+          <include name="setup"/>
+          <include name="validateConfirmpass"/>
+          <include name="validateRegister"/>
+          <include name="validateSignOn"/>
+          <include name="validateCountry"/>
+          <include name="validateEmail"/>
+          <include name="validateSubmit"/>
+          <include name="validateAdres"/>
+          <include name="validateCity"/>
+          <include name="validateState"/>
+        </methods>
+      </class> <!-- Com.G.Varathan.scrip.Testscript -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

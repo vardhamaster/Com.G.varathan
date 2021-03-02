@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="19" passed="19" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-01T23:39:48 PST" name="Suite" finished-at="2021-03-01T23:40:45 PST" duration-ms="56793">
+    <groups>
+    </groups>
+    <test started-at="2021-03-01T23:39:48 PST" name="Test" finished-at="2021-03-01T23:40:45 PST" duration-ms="56793">
+      <class name="Com.G.Varathan.scrip.Testscript">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Com.G.Varathan.scrip.Testscript@57d7f8ca]" started-at="2021-03-01T23:39:48 PST" name="setup" finished-at="2021-03-01T23:40:23 PST" duration-ms="34843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateRegister()[pri:1, instance:Com.G.Varathan.scrip.Testscript@57d7f8ca]" started-at="2021-03-01T23:40:23 PST" name="validateRegister" finished-at="2021-03-01T23:40:27 PST" duration-ms="3460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegister -->
+        <test-method signature="validateFirstname()[pri:2, instance:Com.G.Varathan.scrip.Testscript@57d7f8ca]" started-at="2021-03-01T23:40:27 PST" name="validateFirstname" finished-at="2021-03-01T23:40:29 PST" duration-ms="1909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFirstname -->
+        <test-method signature="validateLastname()[pri:3, instance:Com.G.Varathan.scrip.Testscript@57d7f8ca]" started-at="2021-03-01T23:40:29 PST" name="validateLastname" finished-at="2021-03-01T23:40:29 PST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLastname -->
+        <test-method signature="validatePhonenum()[pri:4, instance:Com.G.Varathan.scrip.Testscript@57d7f8ca]" started-at="2021-03-01T23:40:29 PST" name="validatePhonenum" finished-at="2021-03-01T23:40:29 PST" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePhonenum -->
+        <test-method signature="validateEmail()[pri:5, instance:Com.G.Varathan.scrip.Testscript@57d7f8ca]" started-at="2021-03-01T23:40:29 PST" name="validateEmail" finished-at="2021-03-01T23:40:29 PST" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEmail -->
+        <test-method signature="validateAdres()[pri:6, instance:Com.G.Varathan.scrip.Testscript@57d7f8ca]" started-at="2021-03-01T23:40:29 PST" name="validateAdres" finished-at="2021-03-01T23:40:29 PST" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAdres -->
+        <test-method signature="validateCity()[pri:7, instance:Com.G.Varathan.scrip.Testscript@57d7f8ca]" started-at="2021-03-01T23:40:29 PST" name="validateCity" finished-at="2021-03-01T23:40:29 PST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCity -->
+        <test-method signature="validateState()[pri:8, instance:Com.G.Varathan.scrip.Testscript@57d7f8ca]" started-at="2021-03-01T23:40:29 PST" name="validateState" finished-at="2021-03-01T23:40:30 PST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateState -->
+        <test-method signature="validatePostalcode()[pri:9, instance:Com.G.Varathan.scrip.Testscript@57d7f8ca]" started-at="2021-03-01T23:40:30 PST" name="validatePostalcode" finished-at="2021-03-01T23:40:30 PST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePostalcode -->
+        <test-method signature="validateCountry()[pri:10, instance:Com.G.Varathan.scrip.Testscript@57d7f8ca]" started-at="2021-03-01T23:40:30 PST" name="validateCountry" finished-at="2021-03-01T23:40:30 PST" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCountry -->
+        <test-method signature="validateUserName()[pri:11, instance:Com.G.Varathan.scrip.Testscript@57d7f8ca]" started-at="2021-03-01T23:40:30 PST" name="validateUserName" finished-at="2021-03-01T23:40:30 PST" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserName -->
+        <test-method signature="validatePassword()[pri:12, instance:Com.G.Varathan.scrip.Testscript@57d7f8ca]" started-at="2021-03-01T23:40:30 PST" name="validatePassword" finished-at="2021-03-01T23:40:30 PST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePassword -->
+        <test-method signature="validateConfirmpass()[pri:13, instance:Com.G.Varathan.scrip.Testscript@57d7f8ca]" started-at="2021-03-01T23:40:30 PST" name="validateConfirmpass" finished-at="2021-03-01T23:40:30 PST" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateConfirmpass -->
+        <test-method signature="validateSubmit()[pri:14, instance:Com.G.Varathan.scrip.Testscript@57d7f8ca]" started-at="2021-03-01T23:40:30 PST" name="validateSubmit" finished-at="2021-03-01T23:40:35 PST" duration-ms="4615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSubmit -->
+        <test-method signature="validateSignOn()[pri:15, instance:Com.G.Varathan.scrip.Testscript@57d7f8ca]" started-at="2021-03-01T23:40:35 PST" name="validateSignOn" finished-at="2021-03-01T23:40:37 PST" duration-ms="1693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSignOn -->
+        <test-method signature="validateSiUser()[pri:16, instance:Com.G.Varathan.scrip.Testscript@57d7f8ca]" started-at="2021-03-01T23:40:37 PST" name="validateSiUser" finished-at="2021-03-01T23:40:37 PST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSiUser -->
+        <test-method signature="validateSipas()[pri:17, instance:Com.G.Varathan.scrip.Testscript@57d7f8ca]" started-at="2021-03-01T23:40:37 PST" name="validateSipas" finished-at="2021-03-01T23:40:37 PST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSipas -->
+        <test-method signature="validateSigsub()[pri:18, instance:Com.G.Varathan.scrip.Testscript@57d7f8ca]" started-at="2021-03-01T23:40:37 PST" name="validateSigsub" finished-at="2021-03-01T23:40:42 PST" duration-ms="5507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSigsub -->
+        <test-method signature="validateSignof()[pri:19, instance:Com.G.Varathan.scrip.Testscript@57d7f8ca]" started-at="2021-03-01T23:40:42 PST" name="validateSignof" finished-at="2021-03-01T23:40:44 PST" duration-ms="1151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSignof -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Com.G.Varathan.scrip.Testscript@57d7f8ca]" started-at="2021-03-01T23:40:44 PST" name="teardown" finished-at="2021-03-01T23:40:45 PST" duration-ms="1619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Com.G.Varathan.scrip.Testscript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
